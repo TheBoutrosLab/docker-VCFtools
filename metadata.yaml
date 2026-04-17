@@ -1,10 +1,2 @@
 ---
-category: 'docker'
-description: 'Docker repository for VCFtools'
-maintainers: ['mmootor@mednet.ucla.edu']
-languages: ['Dockerfile']
-tools: ['VCFtools']
-version: ['0.1.16']
-purpose: 'Package with easily accessible methods to work with VCF files'
-references: 'https://vcftools.github.io/license.html'
 image_name: 'vcftools'
